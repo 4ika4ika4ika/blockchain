@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Технологии Blockchain
 
-You can use the [editor on GitHub](https://github.com/4ika4ika4ika/blockchain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Блокче́йн (англ. blockchain, изначально block chain) — выстроенная по определённым правилам непрерывная последовательная цепочка блоков (связный список), содержащих информацию. Связь между блоками обеспечивается не только нумерацией, но и тем, что каждый блок содержит свою собственную хеш-сумму и хеш-сумму предыдущего блока. Для изменения информации в блоке придётся редактировать и все последующие блоки. Чаще всего копии цепочек блоков хранятся на множестве разных компьютеров независимо друг от друга. Это делает крайне затруднительным внесение изменений в информацию, уже включённую в блоки.
 
 ### Markdown
 
